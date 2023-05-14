@@ -31,7 +31,7 @@
 
 ## 📊 GitHub Activity
 
-<hr>
+<!-- <hr>
 
 | ![Jishnu Github Stats](https://github-readme-stats.vercel.app/api?username=Jishnu2608&show_icons=true&theme=radical) | ![Jishnu GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jishnu2608&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -40,7 +40,7 @@
 
 <!-- color=nord_dark -->
 
-<hr>
+<hr> -->
 
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
