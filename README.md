@@ -27,7 +27,6 @@
 <div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jishnu2608&theme=2077"  display=block width=100% height=auto  alt="1" >
  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jishnu2608&theme=dark)](https://git.io/streak-stats)
 
 ## 📊 GitHub Activity
 
