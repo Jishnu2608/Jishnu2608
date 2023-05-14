@@ -27,22 +27,7 @@
 <div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jishnu2608&theme=2077"  display=block width=100% height=auto  alt="1" >
  
- ## 📈 GitHub Contribution Graph
-
-<hr>
-
-[![Jishnudeep Borah's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jishnu2608&theme=github)](https://github.com/Jishnu2608/github-readme-activity-graph)
-
-<hr>
-
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-</div>
-
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+ 
 
 ## 📊 GitHub Activity
 
@@ -61,6 +46,22 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
+ ## 📈 GitHub Contribution Graph
+
+<hr>
+
+[![Jishnudeep Borah's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jishnu2608&theme=github)](https://github.com/Jishnu2608/github-readme-activity-graph)
+
+<hr>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+</div>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 <!--
 **Jishnu2608/Jishnu2608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
