@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jishnu2608&theme=dark)](https://git.io/streak-stats)
-
-<br>
 
 <hr>
 
