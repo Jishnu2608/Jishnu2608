@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jishnu2608&theme=dark)](https://git.io/streak-stats)
 <!--
 **Jishnu2608/Jishnu2608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
