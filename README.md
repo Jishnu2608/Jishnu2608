@@ -58,7 +58,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 </div>
-### <img src="ConnectWithMe.png" align = "center" width=100% height=auto>
+<h1 align="center"> Connect with Me 👀</h1>
 <hr>
 
 <p align="center" align='right'>
