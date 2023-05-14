@@ -59,9 +59,6 @@
 </h3>
 </div>
 
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
 <!--
 **Jishnu2608/Jishnu2608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
