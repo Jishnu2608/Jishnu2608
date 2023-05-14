@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/octo.gif" width="35"><p align="center">
+</h3>
+ 
+<p align="center">
+<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😎;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a>
+</p>
+
+<h1 align="center"> Hello Guys!🤠, Jishnu's Here 🚩</h1>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 <hr>
 
