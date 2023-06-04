@@ -49,7 +49,7 @@
 
 <hr>
 
-[![Jishnudeep Borah's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jishnu2608&theme=github)](https://github.com/Jishnu2608/github-readme-activity-graph)
+[![Jishnu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jishnu2608&theme=dracula)](https://github.com/Jishnu2608/github-readme-activity-graph)
 
 <hr>
 
