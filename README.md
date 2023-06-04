@@ -10,10 +10,10 @@
 
 <h1 align="center"> Hello Guys!🤠, Jishnu's Here 🚩</h1>
 
-<h3 align="center">
+<!-- <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
-
+ -->
 <hr>
 
 <h3 align="center">
@@ -41,9 +41,9 @@
 
 <hr>
 
-<h3 align="center">
+<!-- <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+</h3> -->
 
  ## 📈 GitHub Contribution Graph
 
@@ -53,12 +53,12 @@
 
 <hr>
 
-<h3 align="center">
+<!-- <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+</h3> -->
 </div>
 <h1 align="center"> 👉 Connect with Me 👈 </h1>
-<hr>
+<!-- <hr> -->
 
 <p align="center" align='right'>
 <a target="_blank"href="https://www.linkedin.com/in/jishnudeep-borah/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -68,9 +68,9 @@
  
 <hr>
 
-<h3 align="center">
+<!-- <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" align="center" width="90%>
-</h3>
+</h3> -->
 
 <br>
                                                                                                                     
