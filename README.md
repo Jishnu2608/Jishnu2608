@@ -20,6 +20,8 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 </h3> -->
 
+[![An image of @jishnu2608's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jishnu2608)](https://holopin.io/@jishnu2608)
+
 <img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Jishnu2608&style=flat-square&color=22CCB2">
 <hr>
 <br>
