@@ -16,9 +16,9 @@
  -->
 <hr>
 
-<h3 align="center">
+<!--<h3 align="center">
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
-</h3>
+</h3> -->
 
 <img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Jishnu2608&style=flat-square&color=22CCB2">
 <hr>
