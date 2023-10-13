@@ -22,7 +22,7 @@
 
 <!--[![An image of @jishnu2608's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jishnu2608)](https://holopin.io/@jishnu2608) -->
 
-[![@jishnu2608's Holopin board](https://holopin.io/api/user/board?user=jishnu2608)](https://holopin.io/@jishnu2608)
+<!--[![@jishnu2608's Holopin board](https://holopin.io/api/user/board?user=jishnu2608)](https://holopin.io/@jishnu2608) -->
 [![An image of @jishnu2608's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jishnu2608)](https://holopin.io/@jishnu2608)
 
 <img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Jishnu2608&style=flat-square&color=22CCB2">
