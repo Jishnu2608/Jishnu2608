@@ -39,9 +39,9 @@
 
 <!--![Jishnu GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jishnu2608&theme=radical)-->
 
-| ![Jishnu's Github Stats](https://github-readme-stats.vercel.app/api?username=Jishnu2608&show_icons=true&theme=radical) | [![GitHub Streak](https://streak-stats.demolab.com?user=Jishnu2608&theme=radical)](https://git.io/streak-stats)            |
+| ![Jishnu2608's Stats](https://github-readme-stats.vercel.app/api?username=Jishnu2608&theme=radical&show_icons=true&hide_border=true&count_private=true) | ![Jishnu2608's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jishnu2608&theme=radical&hide_border=true)            |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jishnu2608&langs_count=8&theme=radical&layout=compact) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jishnu2608&theme=radical&utcOffset=8) |
+| ![Jishnu2608's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jishnu2608&theme=radical&show_icons=true&hide_border=true&layout=compact) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jishnu2608&theme=radical&utcOffset=8) |
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jishnu2608&theme=2077) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jishnu2608&theme=2077)
 
 <!-- color=nord_dark -->
