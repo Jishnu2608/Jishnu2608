@@ -148,10 +148,6 @@ Data Analyst • AI Explorer • Builder • Tech Enthusiast
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jishnu2608&label=Profile+Views&color=58A6FF&style=flat" />
-</p>
-
-<p align="center">
 ⭐ Thanks for visiting my profile!
 </p>
 
