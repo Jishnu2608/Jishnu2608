@@ -25,7 +25,7 @@ Data Analyst • AI Explorer • Builder • Tech Enthusiast
 - 📊 Passionate about analytics, dashboards & scalable systems
 - ⚡ Interested in AI, startups, automation & visualization
 - 🌱 Currently learning advanced analytics & product development
-- 📍 Assam, India
+- 📍 Tezpur, India 🔁 Chennai, India
 
 ---
 
